@@ -1,16 +1,13 @@
-## Hi there 👋
+## Greetings! 👋
 
-<!--
-**GHS-tech/GHS-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gustavo, an aspiring developer based in Brazil.
 
-Here are some ideas to get you started:
+At the moment I am learning as much as I can about this wonderful skill.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Python with Codeacademy.
+
+Fun facts:
+- I am a videogame achievement hunter
+- I currently live in a house with 13 cats
+- My favorite TV show is Fallout
+- Hobbies: Playing videogames, hanging out with my friends
